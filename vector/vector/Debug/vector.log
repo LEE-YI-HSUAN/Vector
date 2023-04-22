@@ -1,0 +1,11 @@
+﻿  Assignment 1.cpp
+  Vector.cpp
+C:\Users\user\YI-HSUAN\vector\vector\Vector.cpp(105,21): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\user\YI-HSUAN\vector\vector\Vector.cpp(150,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\YI-HSUAN\vector\vector\Vector.cpp(154,19): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\user\YI-HSUAN\vector\vector\Vector.cpp(157,19): warning C4018: '<=': signed/unsigned 不相符
+C:\Users\user\YI-HSUAN\vector\vector\Vector.cpp(160,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\YI-HSUAN\vector\vector\Vector.cpp(165,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\YI-HSUAN\vector\vector\Vector.cpp(180,22): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼...
+  vector.vcxproj -> C:\Users\user\YI-HSUAN\vector\Debug\vector.exe
